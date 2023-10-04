@@ -1,0 +1,27 @@
+
+======================================================================
+======================================================================
+ Welcome to the NW Python Debugging Information Utility!
+ Date and Time: 2023-10-04 at 12:47 PM
+ Operating System: posix Darwin 22.5.0
+ System Architecture: 64bit
+ Number of CPUs: 8
+ Machine Type: arm64
+ Python Version: 3.11.5
+ Python Build Date and Compiler: main with Aug 24 2023 15:09:45
+ Python Implementation: CPython
+ Active pip environment:   None
+ Active conda environment: None
+ Path to Interpreter:         /Users/kristenfinley/Documents/streaming-07-finalproject/venv311/bin/python
+ Path to virtual environment: /Users/kristenfinley/Documents/streaming-07-finalproject/venv311
+ Current Working Directory:   /Users/kristenfinley/Documents/streaming-07-finalproject
+ Path to source directory:    /Users/kristenfinley/Documents/streaming-07-finalproject
+ Path to script file:         /Users/kristenfinley/Documents/streaming-07-finalproject/util_about.py
+ User's Home Directory:       /Users/kristenfinley
+ Terminal Environment:        VS Code
+ Terminal Type:               zsh
+ Preferred command:           python3
+ Is python3 available in PATH:   True
+ Is git available in PATH:      True 
+======================================================================
+======================================================================
